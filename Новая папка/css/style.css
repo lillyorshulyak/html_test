@@ -1,0 +1,128 @@
+#logo{
+    position: relative;
+    top: 30px;
+    margin-left:50px;
+}
+#main_header{
+    background: url(../images/main_bg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    border-bottom-right-radius: 300px;
+} 
+#main_nav ul{
+list-style: none;
+position: absolute;
+top: 50px;
+right: 0;
+
+}
+#main_nav li{
+    display: inline;
+    font-size: 30px;
+    margin: 20px;
+    
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.p1 {
+    
+    font-size: 60px;
+    color: white;
+    width: 50%;
+    margin-left: 0;
+}
+.bold{
+    font-weight: 900;
+}
+.section-1{
+    color: white;
+    width: 50%;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.blue-box{
+    position: relative;
+    bottom: 50px;
+    color:white;
+    text-align: center;
+    font-size: 23px;
+    width: 30%;
+    margin: auto;
+
+    background: linear-gradient(to bottom right,#00C7B1,#477684 )
+}
+
+.paragraph-2{
+    font-size: 23px;
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+    
+}
+.container{
+    position: relative;
+    bottom: 100px;
+right: 0;
+color: white;
+    display: flex;
+    margin: 85px;
+}
+.box-1{
+    background: linear-gradient(to bottom right,#00C7B1,#477684 );
+margin: 5px;
+}
+.box-2{
+    background: linear-gradient(to bottom right,#00C7B1,#477684 );
+margin: 5px;
+}
+.box-3{
+    background: linear-gradient(to bottom right,#00C7B1,#477684 );
+margin: 5px;
+}
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    margin-top: 35px;
+}
+.section-3{
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    margin: auto;
+}
+.see-all{
+  font-size: 25px;
+  background-color: white;
+  padding-left: 150px;
+  padding-right: 150px;
+  border-radius: 25%;
+  
+  
+}
+}
+#main_footer{
+    background-color:#223440;
+    
+
+}
+#main_footer ul{
+    text-decoration: none;
+    background-color:#223440;
+    
+
+}
+#main_footer li{
+    display: inline;
+  
+    color: white;
+    font-size: 25px;
+    
+   
+}
